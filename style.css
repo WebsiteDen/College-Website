@@ -457,7 +457,7 @@ footer ul li{
 }
 .heroNote{
     width: 50%;
-    margin-left: 50px;
+    margin: auto;
 }
 .heroNote p{
     font-size: 17px;
