@@ -10,7 +10,7 @@ body{
 }
 
 .header{
-    min-height: 120vh;
+    min-height: 100vh;
     width: 100%;
     background-image:  url(Images/banner1.jpg);
     background-position: center;
@@ -435,7 +435,7 @@ footer ul li{
 .about-header{
     min-height: 100vh;
     width: 100%;
-    background-image:  url(images/background.jpg);
+    background-image:  url(Images/background.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -541,7 +541,7 @@ p.second{
 .academics-header{
     min-height: 100vh;
     width: 100%;
-    background-image:  url(images/banner2.jpg);
+    background-image:  url(Images/banner2.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -640,7 +640,7 @@ p.second{
 .contact-header{
     min-height: 100vh;
     width: 100%;
-    background-image:  url(images/contact.jpg);
+    background-image:  url(Images/contact.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -690,7 +690,7 @@ p.second{
 .activities-header{
     min-height: 100vh;
     width: 100%;
-    background-image:  url(images/banner.png);
+    background-image:  url(Images/banner.png);
     background-position: center;
     background-size: cover;
     position: relative;
